@@ -5,7 +5,6 @@ I'm a **Network Operations Security Analyst** with over 3 years of government an
 
 ## 👨‍💻 **About Me**  
 - 🌐 **Driven by:** A deep interest in networking and the critical importance of security.  
-- 🔧 **Professional Highlight:** Successfully deployed EDR solutions and policies to small and medium-sized business networks.  
 - 📚 **Certifications:** CompTIA Security Analytics Professional (CSAP), CySA+, Sec+, A+. 
 
 ---
@@ -19,7 +18,7 @@ I'm a **Network Operations Security Analyst** with over 3 years of government an
 ### **Favorite Tools:**  
 - **Monitoring:** SolarWinds Orion (despite the price, it’s fantastic for large-scale networks), I have been interested in Fortinet and Datto RMM monitoring capabilities recently.   
 - **Routing:** OpnSense for home and lab environments; learning Fortinet and Palo Alto routing and firewall. 
-- **EDR:** Wazuh and Datto EDR for enterprise MSP use.  
+- **EDR:** Wazuh on lab networks and Datto EDR for enterprise MSP use.  
 - **Switching:** Experience with Cisco and Aruba; exploring MikroTik and Fortinet.  
 - **RMM:** Proficiency with Datto RMM for managed services.  
 
@@ -27,7 +26,7 @@ I'm a **Network Operations Security Analyst** with over 3 years of government an
 
 ## 📂 **What You'll Find Here**  
 - 🚀 Projects from my **professional experience** and **lab environments**, showcasing enterprise frameworks and industry-standard network security controls.  
-- 🌟 A **public portfolio** to enhance my professional resume.  
+- 🌟 As a **public portfolio** to enhance my professional resume.  
 
 ---
 
